@@ -1,0 +1,7 @@
+﻿  CS105_LAB2.cpp
+C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab2\CS105_LAB2\CS105_LAB2.cpp(202,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab2\CS105_LAB2\CS105_LAB2.cpp(209,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab2\CS105_LAB2\CS105_LAB2.cpp(215,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab2\CS105_LAB2\CS105_LAB2.cpp(122,10): warning C4101: 'r': unreferenced local variable
+C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab2\CS105_LAB2\CS105_LAB2.cpp(80): warning C4715: 'Player::whatRace': not all control paths return a value
+  CS105_LAB2.vcxproj -> C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab2\CS105_LAB2\Debug\CS105_LAB2.exe

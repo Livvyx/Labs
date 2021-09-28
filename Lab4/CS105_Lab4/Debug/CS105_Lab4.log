@@ -1,0 +1,3 @@
+﻿  CS105_Lab4.cpp
+C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab4\CS105_Lab4\CS105_Lab4.cpp(52,19): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+  CS105_Lab4.vcxproj -> C:\Users\olivi\OneDrive\Desktop\CS105\Labs\Lab4\CS105_Lab4\Debug\CS105_Lab4.exe
